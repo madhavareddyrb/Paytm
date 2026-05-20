@@ -108,3 +108,8 @@
   border-radius: 6px;
   cursor: pointer;
 }
+
+
+.label_name{
+  width: 200px;
+}
